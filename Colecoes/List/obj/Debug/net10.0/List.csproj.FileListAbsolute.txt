@@ -1,0 +1,14 @@
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\List.AssemblyInfoInputs.cache
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\List.AssemblyInfo.cs
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\List.csproj.CoreCompileInputs.cache
+C:\Users\0201392521001\source\repos\Colecoes\List\bin\Debug\net10.0\List.exe
+C:\Users\0201392521001\source\repos\Colecoes\List\bin\Debug\net10.0\List.deps.json
+C:\Users\0201392521001\source\repos\Colecoes\List\bin\Debug\net10.0\List.runtimeconfig.json
+C:\Users\0201392521001\source\repos\Colecoes\List\bin\Debug\net10.0\List.dll
+C:\Users\0201392521001\source\repos\Colecoes\List\bin\Debug\net10.0\List.pdb
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\List.dll
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\refint\List.dll
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\List.pdb
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\List.genruntimeconfig.cache
+C:\Users\0201392521001\source\repos\Colecoes\List\obj\Debug\net10.0\ref\List.dll
