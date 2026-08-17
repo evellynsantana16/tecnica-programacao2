@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace orientacao_objeto
+{
+    internal class Curso
+    {
+        public int Id { get; set; }
+
+        public string? Nome { get; set; }
+
+        public string? Vaga { get; set; }
+
+        public List<Disciplina> ? Disciplina { get; set; }
+    }
+}

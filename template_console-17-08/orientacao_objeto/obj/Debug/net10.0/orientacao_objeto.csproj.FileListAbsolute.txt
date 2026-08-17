@@ -1,0 +1,14 @@
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\bin\Debug\net10.0\orientacao_objeto.exe
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\bin\Debug\net10.0\orientacao_objeto.deps.json
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\bin\Debug\net10.0\orientacao_objeto.runtimeconfig.json
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\bin\Debug\net10.0\orientacao_objeto.dll
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\bin\Debug\net10.0\orientacao_objeto.pdb
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\orientacao_objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\orientacao_objeto.AssemblyInfoInputs.cache
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\orientacao_objeto.AssemblyInfo.cs
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\orientacao_objeto.csproj.CoreCompileInputs.cache
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\orientacao_objeto.dll
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\refint\orientacao_objeto.dll
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\orientacao_objeto.pdb
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\orientacao_objeto.genruntimeconfig.cache
+C:\Users\0201392521001\source\repos\template_console\orientacao_objeto\obj\Debug\net10.0\ref\orientacao_objeto.dll
