@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="delegateAction/delegateAction.csproj" />
+  <Project Path="delegateComExpressaoLambida/delegateComExpressaoLambida.csproj" />
+  <Project Path="delegateFunc/delegateFunc.csproj" />
+  <Project Path="delegateFuncaoAnonima/delegateFuncaoAnonima.csproj" />
+  <Project Path="delegateMulti/delegateMulti.csproj" />
+  <Project Path="delegatePredicate/delegatePredicate.csproj" />
+  <Project Path="ExemploDelegate/ExemploDelegate.csproj" />
+  <Project Path="Exercicio/Exercicio.csproj" />
+</Solution>
