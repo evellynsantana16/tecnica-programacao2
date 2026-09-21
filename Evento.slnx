@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EventHandle_com_parametro/EventHandle_com_parametro.csproj" />
+  <Project Path="EventHandle_sem_parametro/EventHandle_sem_parametro.csproj" />
+  <Project Path="Evento/Evento.csproj" />
+  <Project Path="Exercicios/Exercicios.csproj" />
+</Solution>
